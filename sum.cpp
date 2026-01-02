@@ -9,5 +9,6 @@ int main() {
     int num2 = 7;
     std::cout << "The sum of " << num1 << " and " << num2 << " is " << sum(num1, num2) << std::endl;
     std::cout<<"test1"<<std::endl;
+    std::cout<< "test2"<<std::endl;
     return 0;
 }
